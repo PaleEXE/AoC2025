@@ -75,7 +75,6 @@ int main() {
         total_2 += get_max_num(num, 12);
     }
 
-    std::cout << "---" << std::endl;
     std::cout << "part1: " << total_1 << std::endl;
     std::cout << "part2: " << total_2 << std::endl;
     return 0;
