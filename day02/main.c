@@ -1,5 +1,5 @@
 #include "part2.h"
-#include <cstdio>
+#include <stdio.h>
 
 static char input[1024 * 5];
 
@@ -12,7 +12,7 @@ int main(void) {
 
     size_t bytes = fread(input, 1, sizeof(input) - 1, f);
     fclose(f);
-    
+
     input[bytes] = '\0';
     fclose(f);
 
