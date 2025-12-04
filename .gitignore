@@ -1,3 +1,13 @@
 *.out
 *.sh
 *.o
+bin/
+obj/
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+TestResults/
+*.log
+.env
