@@ -11,3 +11,4 @@ obj/
 TestResults/
 *.log
 .env
+main
