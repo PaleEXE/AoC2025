@@ -13,3 +13,5 @@ TestResults/
 .env
 main
 *.db
+*.class
+out/
