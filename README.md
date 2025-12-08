@@ -9,7 +9,7 @@ My crazy idea is to solve each day with a different language for no fu*king reas
 - [x] Day 03 — C++
 - [x] Day 04 — C#
 - [x] Day 05 — SQL
-- [ ] Day 06 — ?
+- [ ] Day 06 — Java
 - [ ] Day 07 — ?
 - [ ] Day 08 — ?
 - [ ] Day 09 — ?
