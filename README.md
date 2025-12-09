@@ -9,8 +9,8 @@ My crazy idea is to solve each day with a different language for no fu*king reas
 - [x] Day 03 — C++
 - [x] Day 04 — C#
 - [x] Day 05 — SQL
-- [ ] Day 06 — Java
-- [ ] Day 07 — ?
+- [x] Day 06 — Java
+- [x] Day 07 — Python
 - [ ] Day 08 — ?
 - [ ] Day 09 — ?
 - [ ] Day 10 — ?
