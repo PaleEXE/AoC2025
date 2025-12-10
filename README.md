@@ -11,7 +11,7 @@ My crazy idea is to solve each day with a different language for no fu*king reas
 - [x] Day 05 — SQL
 - [x] Day 06 — Java
 - [x] Day 07 — Python
-- [ ] Day 08 — ?
+- [x] Day 08 — JavaScript
 - [ ] Day 09 — ?
 - [ ] Day 10 — ?
 - [ ] Day 11 — ?
