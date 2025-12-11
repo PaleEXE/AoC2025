@@ -1,13 +1,24 @@
-*.sql linguist-detectable=true
-*.sql linguist-language=sql
-*.py linguist-detectable=true
-*.asm linguist-detectable=true
-*.js linguist-detectable=true
-*.ts linguist-detectable=true
-*.cpp linguist-detectable=true
-*.c linguist-detectable=true
-*.rs linguist-detectable=true
-*.lua linguist-detectable=true
-*.java linguist-detectable=true
-*.go linguist-detectable=true
+# --- Prevent GitHub from grouping anything into "Other" ---
 * linguist-vendored=false
+* linguist-generated=false
+
+# --- Force-detect languages explicitly ---
+
+*.s linguist-language=Assembly
+*.asm linguist-language=Assembly
+*.S linguist-language=Assembly
+
+*.java linguist-language=Java
+*.c linguist-language=C
+*.cs linguist-language=C#
+*.sql linguist-language=SQL
+*.cpp linguist-language=C++
+*.cc linguist-language=C++
+*.cxx linguist-language=C++
+
+# If you also have these file types:
+*.h linguist-language=C
+*.hpp linguist-language=C++
+*.x86 linguist-language=Assembly
+*.nasm linguist-language=Assembly
+*.masm linguist-language=Assembly
